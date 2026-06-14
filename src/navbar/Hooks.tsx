@@ -35,6 +35,7 @@ function Hooks() {
                 ref={userText}
             />
             <button onClick={inputFocus}>Enter</button> 
+            <h1>My App</h1>
         </div>
     );
 }
